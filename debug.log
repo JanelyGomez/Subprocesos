@@ -1,0 +1,21 @@
+[0830/092613.277:ERROR:browser_host_impl.cc(234)] Creating a windowless browser without setting CefSettings.windowless_rendering_enabled may result in reduced performance or runtime errors.
+[0830/092613.277:ERROR:context.cc(211)] The cache_path directory (C:\Users\jgv28\Desktop\Herramientas Gerenciales para Desarrollo de Proyectos\cache\path1) is not a child of the root_cache_path directory (C:\Users\jgv28\AppData\Local\Temp\BPM2\CefSharpCache)
+[0830/092613.277:ERROR:context.cc(235)] The cache_path is invalid. Defaulting to in-memory storage.
+[0830/092618.841:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0830/092639.665:ERROR:cache_util_win.cc(21)] Unable to move the cache: Acceso denegado. (0x5)
+[0830/092639.666:ERROR:cache_util.cc(139)] Unable to move cache folder C:\Users\jgv28\AppData\Local\Temp\BPM2\CefSharpCache\GPUCache to C:\Users\jgv28\AppData\Local\Temp\BPM2\CefSharpCache\old_GPUCache_000
+[0830/092639.666:ERROR:disk_cache.cc(184)] Unable to create cache
+[0830/092639.666:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[0830/092643.947:ERROR:cache_util_win.cc(21)] Unable to move the cache: Acceso denegado. (0x5)
+[0830/092643.951:ERROR:cache_util.cc(139)] Unable to move cache folder C:\Users\jgv28\AppData\Local\Temp\BPM2\CefSharpCache\Cache to C:\Users\jgv28\AppData\Local\Temp\BPM2\CefSharpCache\old_Cache_000
+[0830/092643.951:ERROR:disk_cache.cc(184)] Unable to create cache
+[0830/092652.583:ERROR:browser_host_impl.cc(234)] Creating a windowless browser without setting CefSettings.windowless_rendering_enabled may result in reduced performance or runtime errors.
+[0830/092652.583:ERROR:context.cc(211)] The cache_path directory (C:\Users\jgv28\Desktop\Herramientas Gerenciales para Desarrollo de Proyectos\cache\path1) is not a child of the root_cache_path directory (C:\Users\jgv28\AppData\Local\Temp\BPM2\CefSharpCache)
+[0830/092652.583:ERROR:context.cc(235)] The cache_path is invalid. Defaulting to in-memory storage.
+[0830/093128.676:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0830/093129.815:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0830/093129.877:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0830/093130.694:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0830/093130.748:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0830/093131.952:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0830/093509.797:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
